@@ -13,7 +13,7 @@ namespace QUANLYKS
         private void btnTracuu_Click(object sender, EventArgs e)
         {
            
-           
+           //comment thoai nha moi nguoi oi
             Form2 frm = new Form2();
             frm.Show();
         }
